@@ -1,0 +1,2 @@
+*** Variables ***
+${LOGIN}     /api/login
